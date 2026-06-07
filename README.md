@@ -5,6 +5,8 @@ A personal collection of notes, reviews, and key takeaways from the **AI Enginee
 This repository documents my learning journey through the book, chapter by chapter, focusing on the concepts, insights, and engineering decisions that are most relevant to building real-world AI applications.
 
 Rather than creating traditional summaries, I highlight the ideas that stood out to me, connect them with practical AI engineering workflows, and organize them into structured notes for future reference.
+<img width="786" height="1033" alt="image" src="https://github.com/user-attachments/assets/a292cfa7-94d5-4ba2-be3a-b799f9334490" />
+
 
 ---
 
